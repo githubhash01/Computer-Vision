@@ -1,6 +1,5 @@
 import numpy as np
 from scipy.signal import correlate, convolve, convolve2d
-
 from utils import read_img_mono, display_img, save_img
 
 
